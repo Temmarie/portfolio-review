@@ -1,26 +1,28 @@
-# curriculum-cr-training-contact-form
+# CR Training Contact Form
 
-This repo host an initial code for the tasks performed during the Code Reviewers training.
+> This repo host an initial code for the tasks performed during the Code Reviewers training.
+> Specifically, I implemented the contact form module in the footer section.
+> Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
+> ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello-Microverse
+## Built With
 
-In this project, I set up a "Hello world" repository. No complex coding was required for this exercise. The goal here is to master all of the tools and best practices learned about in previous steps.
+- HTML
+- CSS
+- VS Code
 
-## Project objectives
+## Live Demo
 
-* Build the most of the posibles app interfaces translated to the web
-* Use semantic HTML tags
-* Use CSS selectors correctly
-* Use HTML elements box model (margin, padding, width, height).
-* Use industry-standard tools (flexbox) to place elements in the page.
-* Check the ability to create UIs adaptable to different screen sizes using mediaqueries.
-* Apply front-end best practices.
+[Portfolio Form Module]()
 
+## Getting Started
 
-### Built With
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
-- Html5,
-- CSS3
+To get a local copy up and running follow these simple example steps.
+
+### Setup
 
 👤 **Author**
 
@@ -30,22 +32,18 @@ In this project, I set up a "Hello world" repository. No complex coding was requ
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome! Start by:
-*Forking the project
-*Cloning the project to your local machine
-*`cd` into the project directory
-*Run `git checkout -b your-branch-name`
-*Make your contributions
-*Push your branch up to your forked repository
-*Open a Pull Request with a detailed description to the development branch of the original project for a review
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [Microverse Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471)
 
 ## 📝 License
 
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
-
-
-
-
-
-
-Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
+This project is [MIT](./MIT.md) licensed.
