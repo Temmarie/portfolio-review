@@ -338,19 +338,17 @@ li {
 }
 
 .mu-contact-form .form-group input {
-  background: transparent;
-  border-radius: 8px;
+  background: rgb(232, 230, 230);
   color: #333;
   font-size: 15px;
-  border: 1px solid #888;
+  border-bottom: 1px solid #fff;
   height: 45px;
   margin-bottom: 24px;
 }
 
 .mu-contact-form .form-group textarea {
-  background: transparent;
-  border: 1px solid #888;
-  border-radius: 8px;
+  background: rgb(232, 230, 230);
+  border: 1px solid #fff;
   color: #333;
   font-size: 18px;
   padding: 10px;
@@ -367,25 +365,8 @@ li {
   font-size: 15px;
 }
 
-.mu-contact-form .form-control:-moz-placeholder {
-  /* Firefox 18- */
-  color: #888;
-  font-size: 15px;
-}
-
-.mu-contact-form .form-control::-moz-placeholder {
-  /* Firefox 19+ */
-  color: #888;
-  font-size: 15px;
-}
-
-.mu-contact-form .form-control:-ms-input-placeholder {
-  color: #888;
-  font-size: 15px;
-}
-
 .mu-send-msg-btn {
-  border: 1px solid #888;
+  border: 1px solid #fff;
   background-color: #ff6b00;
   color: #fff;
   font-size: 13px;
@@ -400,6 +381,7 @@ li {
 }
 
 .center {
+  display: flex;
   position: relative;
   margin-top: 30px;
 }
