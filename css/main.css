@@ -325,3 +325,81 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+.mu-contact-bottom {
+  display: inline;
+  float: left;
+  width: 100%;
+}
+
+#form-messages {
+  margin-bottom: 10px;
+  background-color: #fff;
+}
+
+.mu-contact-form .form-group input {
+  background: rgb(232, 230, 230);
+  color: #333;
+  font-size: 15px;
+  border-bottom: 1px solid #fff;
+  height: 45px;
+  margin-bottom: 24px;
+}
+
+.mu-contact-form .form-group textarea {
+  background: rgb(232, 230, 230);
+  border: 1px solid #fff;
+  color: #333;
+  font-size: 18px;
+  padding: 10px;
+  height: 190px;
+}
+
+.mu-contact-form .form-control::-webkit-input-placeholder {
+  color: #888;
+  font-size: 15px;
+}
+
+.mu-contact-form .form-control:focus {
+  background-color: #fff;
+  outline: 0;
+  box-shadow: none;
+}
+
+.mu-send-msg-btn {
+  border: 1px solid #fff;
+  background-color: #ff6b00;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-align: center;
+  padding: 14px 24px;
+  margin-top: 10px;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  width: 250px;
+}
+
+.center {
+  display: flex;
+  position: relative;
+  margin-top: 30px;
+}
+
+#button {
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.mu-send-msg-btn:hover,
+.mu-send-msg-btn:focus {
+  background-color: #fff;
+}
+
+.contact-header {
+  font-size: 25px;
+}
