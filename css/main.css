@@ -396,7 +396,20 @@ li {
   margin-top: 10px;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
-  width: 130px;
+  width: 250px;
+}
+
+.center {
+  position: relative;
+  margin-top: 30px;
+}
+
+#button {
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 .mu-send-msg-btn:hover,
