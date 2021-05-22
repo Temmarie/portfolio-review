@@ -355,14 +355,15 @@ li {
   height: 190px;
 }
 
+.mu-contact-form .form-control::-webkit-input-placeholder {
+  color: #888;
+  font-size: 15px;
+}
+
 .mu-contact-form .form-control:focus {
   background-color: #fff;
   outline: 0;
   box-shadow: none;
-}
-© .mu-contact-form .form-control::-webkit-input-placeholder {
-  color: #888;
-  font-size: 15px;
 }
 
 .mu-send-msg-btn {
